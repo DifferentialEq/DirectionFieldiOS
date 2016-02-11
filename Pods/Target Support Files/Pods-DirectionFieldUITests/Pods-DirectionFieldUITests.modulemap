@@ -1,0 +1,6 @@
+framework module Pods_DirectionFieldUITests {
+  umbrella header "Pods-DirectionFieldUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
